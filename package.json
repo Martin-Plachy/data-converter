@@ -1,0 +1,27 @@
+{
+  "name": "data-converter",
+  "version": "1.0.0",
+  "description": "A simple data converter from/to a text file, an array and JSON.",
+  "main": "dataconverter.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martin-Plachy/data-converter.git"
+  },
+  "keywords": [
+    "data",
+    "converter",
+    "PHP",
+    "text",
+    "array",
+    "JSON"
+  ],
+  "author": "Martin Plachý",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martin-Plachy/data-converter/issues"
+  },
+  "homepage": "https://github.com/Martin-Plachy/data-converter#readme"
+}
