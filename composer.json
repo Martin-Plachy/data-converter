@@ -1,0 +1,11 @@
+{
+    "name": "martin-plachy/data-converter",
+    "description": "A simple data converter from/to a text file, an array and JSON.",
+    "authors": [
+        {
+            "name": "Martin Plachý",
+            "email": "martin.plachy86@gmail.com"
+        }
+    ],
+    "require": {}
+}
